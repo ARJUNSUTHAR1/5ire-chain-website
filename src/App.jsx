@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className="heading">
-        <h1>5ire Chain Website - Arjun</h1>
+        <h1>5ire Chain Website - Arjun Suthar</h1>
       </div>
     </>
   )
